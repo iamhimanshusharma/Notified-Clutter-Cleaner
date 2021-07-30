@@ -7,11 +7,11 @@ organized then it notifies the number of files which are added the their defined
 > PYTHON (os, plyer module)
 
 <=====================SERVICES==============================================>
-> SEPRATES IMAGES IN "IMAGE" FOLDER
-> SEPRATES DOCUMENTS IN "FILES" FOLDER
-> SEPRATES MEDIA IN "MEDIA" FOLDER
-> SEPRATES OHTER FILES IN "OTHER" FOLDER 
-> MOVES ALL THE FOLDERS IN FOLDER NAME AS "FOLDERS" 
+> SEPRATES IMAGES IN "IMAGE" FOLDER<br>
+> SEPRATES DOCUMENTS IN "FILES" FOLDER<br>
+> SEPRATES MEDIA IN "MEDIA" FOLDER<br>
+> SEPRATES OHTER FILES IN "OTHER" FOLDER<br> 
+> MOVES ALL THE FOLDERS IN FOLDER NAME AS "FOLDERS"<br> 
 
 <=======================HAVE ANY QUERY OR TO IMPROVE OR TO WORK TOGETHER==============>
 > MAIL ME: imyselfhimanshusharma@gmail.com
